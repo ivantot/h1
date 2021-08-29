@@ -1,0 +1,8 @@
+.partOfSpeech {
+  margin: 10px 0 6px 0;
+  list-style: upper-roman;
+}
+
+.meaning_word {
+  font-weight: bolder;
+}
